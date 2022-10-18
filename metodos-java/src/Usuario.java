@@ -1,4 +1,7 @@
 public class Usuario {
+
+    public Usuario() {
+    }
             
             System.out.println("tv ligada" + smartTv.ligada);
             System.out.println("canal atual" + smartTv.canal);
